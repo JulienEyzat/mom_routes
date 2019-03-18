@@ -1,0 +1,3971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Méthanisation Chim. Rhodia PI</name>
+            <Point id="2">
+                <coordinates>1.4774777,42.7623696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Méthanisation IAA de Masterfoods</name>
+            <Point id="4">
+                <coordinates>114.1180643,22.3519849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Méthanisation STEP Issenheim</name>
+            <Point id="6">
+                <coordinates>6.7912777,46.6554844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Méthanisation Step Brasseries Kronenbourg Obernai</name>
+            <Point id="8">
+                <coordinates>90.356331,23.684994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Méthanisation VIN les Grands Chais de France</name>
+            <Point id="10">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Méthanisation centralisée Agrivalor Energie</name>
+            <Point id="12">
+                <coordinates>19.8369554,46.1125271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Méthanisation distillerie Brasserie Licorne</name>
+            <Point id="14">
+                <coordinates>2.4146396,49.4214568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Méthanisation à la ferme Gaec de la Marjolaine</name>
+            <Point id="16">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Méthanisation à la ferme Sas Hillmar Energie</name>
+            <Point id="18">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Méthanisation à la ferme Sas du Kirchweg</name>
+            <Point id="20">
+                <coordinates>8.318981,50.3604847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Unité de Méthanisation Eplefpa Obernai</name>
+            <Point id="22">
+                <coordinates>-1.8157647,47.2780468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Méthanisation IAA Wrigley France</name>
+            <Point id="24">
+                <coordinates>7.5558093,48.0454371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Méthanisation STEP Strasbourg</name>
+            <Point id="26">
+                <coordinates>7.7935601,48.5911908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Méthanisation STEP de Haguenau</name>
+            <Point id="28">
+                <coordinates>7.8220013,48.8055159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>réaliser un réseau de chaleur de 1780 ml alimenté par une unité de méthanisation de 1,36 MWth pour des bâtiments agricoles ainsi qu'un centre balnéolu</name>
+            <Point id="30">
+                <coordinates>7.3210148,48.1943302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Méthanisation Chim. Rhodia PI</name>
+            <Point id="32">
+                <coordinates>7.508668,47.79023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Méthanisation IAA Wrigley France</name>
+            <Point id="34">
+                <coordinates>7.4890234,48.0592962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Méthanisation IAA de Masterfoods</name>
+            <Point id="36">
+                <coordinates>7.7856615,48.8164718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Méthanisation STEP Issenheim</name>
+            <Point id="38">
+                <coordinates>7.239503,47.896988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Méthanisation STEP Strasbourg</name>
+            <Point id="40">
+                <coordinates>7.734067,48.585339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Méthanisation STEP de Haguenau</name>
+            <Point id="42">
+                <coordinates>7.7856615,48.8164718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Méthanisation STEP de Village-Neuf</name>
+            <Point id="44">
+                <coordinates>7.5402281,47.577785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Méthanisation Step Brasseries Kronenbourg Obernai</name>
+            <Point id="46">
+                <coordinates>7.481153,48.462193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Méthanisation VIN les Grands Chais de France</name>
+            <Point id="48">
+                <coordinates>7.2236284,48.8788494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Méthanisation centralisée Agrivalor Energie</name>
+            <Point id="50">
+                <coordinates>7.3210148,48.1943302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Méthanisation distillerie Brasserie Licorne</name>
+            <Point id="52">
+                <coordinates>7.3532011,48.7471365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Méthanisation à la ferme Gaec de la Marjolaine</name>
+            <Point id="54">
+                <coordinates>7.4663884,48.7201409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Méthanisation à la ferme Sas Hillmar Energie</name>
+            <Point id="56">
+                <coordinates>7.2574121,48.866208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Méthanisation à la ferme Sas du Kirchweg</name>
+            <Point id="58">
+                <coordinates>7.6990601,48.3154496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Unité de Méthanisation Eplefpa Obernai</name>
+            <Point id="60">
+                <coordinates>7.481153,48.462193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Adour Méthanisation Labat</name>
+            <Point id="62">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Méthanisation Distillerie Ucva</name>
+            <Point id="64">
+                <coordinates>1.135302,43.4010462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Méthanisation IAA Bernard Michaud Sa</name>
+            <Point id="66">
+                <coordinates>-1.7024084,48.5398481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Méthanisation IAA Jfl Embouteillage</name>
+            <Point id="68">
+                <coordinates>-1.7024084,48.5398481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Méthanisation IAA Maître Prunille S.A.S</name>
+            <Point id="70">
+                <coordinates>0,0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Méthanisation IAA Sa la Guyennoise</name>
+            <Point id="72">
+                <coordinates>-1.7024084,48.5398481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Méthanisation IAA Ucva</name>
+            <Point id="74">
+                <coordinates>1.135302,43.4010462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Méthanisation IAA Yvon Mau</name>
+            <Point id="76">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Méthanisation IAA les vignobles André Lurton</name>
+            <Point id="78">
+                <coordinates>1.6051692,42.9655482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Méthanisation STEP Bordeaux</name>
+            <Point id="80">
+                <coordinates>-0.2926728,48.6674051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Méthanisation VIN Château Dauzac</name>
+            <Point id="82">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Méthanisation VIN Vignobles André Lurton (scea) </name>
+            <Point id="84">
+                <coordinates>-0.5167,44.7167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Méthanisation à la ferme Bergeracoise de Services</name>
+            <Point id="86">
+                <coordinates>0.347158,44.849752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Méthanisation à la ferme Biogaz Plus Prototype</name>
+            <Point id="88">
+                <coordinates>0.507723,44.402647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Méthanisation à la ferme Clottes Biogaz</name>
+            <Point id="90">
+                <coordinates>0.757838,44.724718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Méthanisation à la ferme Cuma de Saint-Quentin</name>
+            <Point id="92">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Méthanisation à la ferme Earl Bixtan</name>
+            <Point id="94">
+                <coordinates>-1.406347,43.329845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Méthanisation à la Ferme de l'Oie</name>
+            <Point id="96">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Méthanisation à la ferme Montardon</name>
+            <Point id="98">
+                <coordinates>4.635412,47.5126795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Méthanisation IAA Fromagerie Bergers du Larzac</name>
+            <Point id="100">
+                <coordinates>1.008116,44.749058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Méthanisation IAA Marquis de Saint Estèphe</name>
+            <Point id="102">
+                <coordinates>-0.78870310000002,45.2426405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Méthanisation Papet Tembec Tartas</name>
+            <Point id="104">
+                <coordinates>-0.82096260000003,43.8323316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Méthanisation STEP Carpentras</name>
+            <Point id="106">
+                <coordinates>5.048722,44.0555639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Méthanisation STEP Mont-de-marsan</name>
+            <Point id="108">
+                <coordinates>-0.52486699999997,43.895831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Adour Méthanisation Labat</name>
+            <Point id="110">
+                <coordinates>-0.255851,43.705639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Méthanisation Distillerie Ucva</name>
+            <Point id="112">
+                <coordinates>-0.1793816,45.0037677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Méthanisation IAA Bernard Michaud Sa</name>
+            <Point id="114">
+                <coordinates>-0.3876656,43.2288708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Méthanisation IAA Jfl Embouteillage</name>
+            <Point id="116">
+                <coordinates>-0.316288,44.900397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Méthanisation IAA Marquis de Saint Estèphe</name>
+            <Point id="118">
+                <coordinates>-0.7333333,45.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Méthanisation IAA Maître Prunille S.A.S</name>
+            <Point id="120">
+                <coordinates>0.692164,44.429874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Méthanisation IAA Sa la Guyennoise</name>
+            <Point id="122">
+                <coordinates>-0.0602369,44.6783829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Méthanisation IAA Ucva</name>
+            <Point id="124">
+                <coordinates>-0.1793816,45.0037677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Méthanisation IAA Yvon Mau</name>
+            <Point id="126">
+                <coordinates>-0.091474,44.583911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Méthanisation IAA les vignobles André Lurton</name>
+            <Point id="128">
+                <coordinates>-0.2184942,44.819815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Méthanisation Papet Tembec Tartas</name>
+            <Point id="130">
+                <coordinates>-0.7360582,43.7952547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Méthanisation STEP Bordeaux</name>
+            <Point id="132">
+                <coordinates>-0.564626,44.8133626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Méthanisation STEP Mont-de-marsan</name>
+            <Point id="134">
+                <coordinates>-0.4989584,43.8926942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Méthanisation VIN Château Dauzac</name>
+            <Point id="136">
+                <coordinates>-0.5930309,44.9971681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Méthanisation VIN Vignobles André Lurton (scea) </name>
+            <Point id="138">
+                <coordinates>-0.498841,44.714385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Méthanisation à la ferme Bergeracoise de Services</name>
+            <Point id="140">
+                <coordinates>0.353686,44.879772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Méthanisation à la ferme Biogaz Plus Prototype</name>
+            <Point id="142">
+                <coordinates>0.49923,44.403749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Méthanisation à la ferme Clottes Biogaz</name>
+            <Point id="144">
+                <coordinates>0.757838,44.724718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Méthanisation à la ferme Cuma de Saint-Quentin</name>
+            <Point id="146">
+                <coordinates>1.206653,44.942591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Méthanisation à la ferme Earl Bixtan</name>
+            <Point id="148">
+                <coordinates>-1.4198435,43.3360896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Méthanisation à la ferme Ferme de l'Oie</name>
+            <Point id="150">
+                <coordinates>0.978085,45.30629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Méthanisation à la ferme Montardon</name>
+            <Point id="152">
+                <coordinates>-0.376949,43.3096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Dispositif d’animation et d’accompagnement technique, juridique et financier des porteurs de projet de méthanisation</name>
+            <Point id="154">
+                <coordinates>-0.58867650000002,44.8366633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Méthanisation à la ferme Gaec de Jammes</name>
+            <Point id="156">
+                <coordinates>2.215318,44.650929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Méthanisation à la ferme Gaec des Deux Pres</name>
+            <Point id="158">
+                <coordinates>3.393434,45.209455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Méthanisation à la ferme Gaec du Roitelet</name>
+            <Point id="160">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Méthanisation à la ferme Sioule-biogaz</name>
+            <Point id="162">
+                <coordinates>3.299154,46.310353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Méthanisation à la ferme Earl Mercier</name>
+            <Point id="164">
+                <coordinates>2.8025290000001,45.258652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>Méthanisation à la ferme Gaec de Jammes</name>
+            <Point id="166">
+                <coordinates>2.2164555,44.650036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Méthanisation à la ferme Gaec des Deux Pres</name>
+            <Point id="168">
+                <coordinates>2.949666,46.6275047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Méthanisation à la ferme Gaec du Roitelet</name>
+            <Point id="170">
+                <coordinates>3.634701,45.101154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Méthanisation à la ferme Sioule-biogaz</name>
+            <Point id="172">
+                <coordinates>3.3839488,46.3296719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>Méthanisation avec Tmb de Saint Lô (point Fort)</name>
+            <Point id="174">
+                <coordinates>-1.122433,49.170765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Méthanisation à la ferme  F Calbris la Bretonniere</name>
+            <Point id="176">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>Méthanisation à la ferme Earl la Turmeliere</name>
+            <Point id="178">
+                <coordinates>-1.275922,48.585446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>Méthanisation à la ferme Gaec Ajp Orvain</name>
+            <Point id="180">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Méthanisation à la ferme Gaec Godeau</name>
+            <Point id="182">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>Méthanisation à la ferme Gaec de la Pépinière</name>
+            <Point id="184">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>Méthanisation à la ferme Gaec le Jeanne</name>
+            <Point id="186">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Méthanisation à la ferme Sarl Kiko Energy</name>
+            <Point id="188">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Méthanisation à la ferme Scea du Bas de Fontenay</name>
+            <Point id="190">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Méthanisation à la ferme Scea du Pont Langlois</name>
+            <Point id="192">
+                <coordinates>59.2826074,25.678372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Méthanisation STEP Cherbourg</name>
+            <Point id="194">
+                <coordinates>-1.6218363,49.6407281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Méthanisation à la ferme Earl Treflamm</name>
+            <Point id="196">
+                <coordinates>-1.2132639,48.967391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>Méthanisation à la ferme Earl de la Clergerie</name>
+            <Point id="198">
+                <coordinates>-1.236031,49.137899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Méthanisation à la ferme Gaec de la Tourelle</name>
+            <Point id="200">
+                <coordinates>0.159809,48.848022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Méthanisation à la ferme Gaec du Boscor</name>
+            <Point id="202">
+                <coordinates>0.29452000000003,48.900368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>Méthanisation STEP Cherbourg</name>
+            <Point id="204">
+                <coordinates>-1.615385,49.643551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Méthanisation avec Tmb de Saint Lô (point Fort)</name>
+            <Point id="206">
+                <coordinates>-1.122433,49.170765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>Méthanisation à la ferme  F Calbris la Bretonniere</name>
+            <Point id="208">
+                <coordinates>0.625138,48.233808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>Méthanisation à la ferme Earl de la Clergerie</name>
+            <Point id="210">
+                <coordinates>-1.2444388,49.1064048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Méthanisation à la ferme Earl la Turmeliere</name>
+            <Point id="212">
+                <coordinates>-1.2920823,48.6154171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>Méthanisation à la ferme Gaec Ajp Orvain</name>
+            <Point id="214">
+                <coordinates>-1.17714,48.612824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>Méthanisation à la ferme Gaec Godeau</name>
+            <Point id="216">
+                <coordinates>0.142393,48.837775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Méthanisation à la ferme Gaec de la Pépinière</name>
+            <Point id="218">
+                <coordinates>-1.465848,47.748157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Méthanisation à la ferme Gaec de la Tourelle</name>
+            <Point id="220">
+                <coordinates>-0.0839899,49.2731816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Méthanisation à la ferme Gaec des Manets</name>
+            <Point id="222">
+                <coordinates>-1.2936479,48.6198064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Méthanisation à la ferme Gaec du Boscor</name>
+            <Point id="224">
+                <coordinates>0.8707924,49.6595727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Méthanisation à la ferme Gaec le Jeanne</name>
+            <Point id="226">
+                <coordinates>0.7587651,48.646674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Méthanisation à la ferme Sarl Kiko Energy</name>
+            <Point id="228">
+                <coordinates>0.701126,48.138428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Méthanisation à la ferme Scea du Bas de Fontenay</name>
+            <Point id="230">
+                <coordinates>-1.0944118,49.3581926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Méthanisation à la ferme Scea du Pont Langlois</name>
+            <Point id="232">
+                <coordinates>-1.0383635,49.0160058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>Méthanisation IAA Fromagerie Gaugry</name>
+            <Point id="234">
+                <coordinates>-36.954107,-5.4025803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Méthanisation à la ferme Abbaye Pierre Qui Vire</name>
+            <Point id="236">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>Méthanisation à la ferme Earl les Fermes</name>
+            <Point id="238">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Méthanisation à la ferme Gaec des Baillys</name>
+            <Point id="240">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Méthanisation à la ferme Gaec des Plots</name>
+            <Point id="242">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>Méthanisation à la ferme Gaec du Val de Maury</name>
+            <Point id="244">
+                <coordinates>0.106973,47.880699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>Méthanisation à la ferme Sarl Fevre Photovoltaique</name>
+            <Point id="246">
+                <coordinates>4.1513764,43.9446996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Méthanisation à la ferme la Grande Panse</name>
+            <Point id="248">
+                <coordinates>-0.3142848,45.4474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>Méthanisation IAA Dolis</name>
+            <Point id="250">
+                <coordinates>3.7452915,47.9968216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Réaliser un réseau de chaleur à partir de la méthanisation.</name>
+            <Point id="252">
+                <coordinates>5.215702,47.139994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Méthanisation IAA Dolis</name>
+            <Point id="254">
+                <coordinates>3.7299023,48.0008949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>Méthanisation IAA Fromagerie Gaugry</name>
+            <Point id="256">
+                <coordinates>4.9707165,47.2391927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>Méthanisation STEP Dijon</name>
+            <Point id="258">
+                <coordinates>5.1251051,47.2755773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Méthanisation à la ferme Abbaye Pierre Qui Vire</name>
+            <Point id="260">
+                <coordinates>4.072936,47.387242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>Méthanisation à la ferme Earl les Fermes</name>
+            <Point id="262">
+                <coordinates>3.915263,47.748197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>Méthanisation à la ferme Gaec des Baillys</name>
+            <Point id="264">
+                <coordinates>3.0716738,47.6387447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>Méthanisation à la ferme Gaec des Plots</name>
+            <Point id="266">
+                <coordinates>3.519343,46.811805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Méthanisation à la ferme Gaec du Val de Maury</name>
+            <Point id="268">
+                <coordinates>3.1833333,47.8833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Méthanisation à la ferme Sarl Fevre Photovoltaique</name>
+            <Point id="270">
+                <coordinates>5.215702,47.140227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Méthanisation à la ferme la Grande Panse</name>
+            <Point id="272">
+                <coordinates>3.80782,47.413117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Méthanisation IAA Entremont - Carhaix</name>
+            <Point id="274">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>Méthanisation IAA Louis Gad Lampaul</name>
+            <Point id="276">
+                <coordinates>2.0195909,45.4320081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Méthanisation Iaa Cargill France</name>
+            <Point id="278">
+                <coordinates>-0.7532809,43.9412045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Méthanisation Step Fougeres la Sarmandiere</name>
+            <Point id="280">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Méthanisation avec TMB Vannes</name>
+            <Point id="282">
+                <coordinates>4.8025724,43.6276794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Méthanisation centralisée Geotexia</name>
+            <Point id="284">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Méthanisation expé de Guernevez</name>
+            <Point id="286">
+                <coordinates>4.9729826,49.9886194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Méthanisation à la ferme Andelec</name>
+            <Point id="288">
+                <coordinates>2.3813621,43.0724667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Méthanisation à la ferme Biowatt</name>
+            <Point id="290">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Méthanisation à la ferme Earl de Guernequay</name>
+            <Point id="292">
+                <coordinates>-2.902304,47.9965339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Méthanisation à la ferme Earl de Reims</name>
+            <Point id="294">
+                <coordinates>-1.8090871,48.241495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Méthanisation à la ferme Earl des Rosiers</name>
+            <Point id="296">
+                <coordinates>-1.308487,48.002856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Méthanisation à la ferme Earl la Fontaine Neuve</name>
+            <Point id="298">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Méthanisation à la ferme Fertiker</name>
+            <Point id="300">
+                <coordinates>-4.252091,48.493597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Méthanisation à la ferme Gaec Lamoureux Freres</name>
+            <Point id="302">
+                <coordinates>-1.5116545,48.0878611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Méthanisation à la ferme Gaec Moulins de Kerollet</name>
+            <Point id="304">
+                <coordinates>-2.3876296,47.5158916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Méthanisation à la ferme Gaec de Kervagen</name>
+            <Point id="306">
+                <coordinates>-4.211584,48.617236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Méthanisation à la ferme Gaec du Clos de la Pierre</name>
+            <Point id="308">
+                <coordinates>-2.906477,48.586016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Méthanisation à la ferme Gaec du Gue</name>
+            <Point id="310">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Méthanisation à la ferme Park Energie</name>
+            <Point id="312">
+                <coordinates>-3.906852,48.188823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Méthanisation à la ferme Raoult Methanisation</name>
+            <Point id="314">
+                <coordinates>-3.061003,48.336785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Méthanisation à la ferme Sarl Gazea</name>
+            <Point id="316">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Méthanisation à la ferme Sarl Lou Elec</name>
+            <Point id="318">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Méthanisation à la ferme Sarl Méthavo Élevages</name>
+            <Point id="320">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Méthanisation à la ferme Sas Methanodet</name>
+            <Point id="322">
+                <coordinates>0.630033,44.713042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Méthanisation à la ferme Sas du Menez Avel</name>
+            <Point id="324">
+                <coordinates>-4.239043,48.522932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Méthanisation à la ferme Sas la Touche Energie</name>
+            <Point id="326">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Unité de Méthanisation Unicopa</name>
+            <Point id="328">
+                <coordinates>22.937506,-30.559482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>Méthanisation STEP Evry</name>
+            <Point id="330">
+                <coordinates>2.441782,48.629828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Méthanisation à la ferme Sas Métha Breizh</name>
+            <Point id="332">
+                <coordinates>-3.317758,48.310403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Création d'une unité de méthanisation à partir d'un élevage porcin</name>
+            <Point id="334">
+                <coordinates>-2.900671,47.9825329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>Méthanisation Centralisée Sensienergies</name>
+            <Point id="336">
+                <coordinates>-2.3135779,47.6889052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Méthanisation IAA Entremont - Carhaix</name>
+            <Point id="338">
+                <coordinates>-3.6023822,48.2434393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Méthanisation IAA Louis Gad Lampaul</name>
+            <Point id="340">
+                <coordinates>-4.0075479,48.4490158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>Méthanisation Iaa Cargill France</name>
+            <Point id="342">
+                <coordinates>-2.0841887,47.6515391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Méthanisation Step Fougeres la Sarmandiere</name>
+            <Point id="344">
+                <coordinates>-1.2080703,48.3544739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>Méthanisation avec TMB Vannes</name>
+            <Point id="346">
+                <coordinates>-2.763404,47.638234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Méthanisation centralisée Geotexia</name>
+            <Point id="348">
+                <coordinates>-2.548244,48.2476259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Méthanisation expé de Guernevez</name>
+            <Point id="350">
+                <coordinates>-1.5348636,47.2447994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>Méthanisation à la ferme Biowatt</name>
+            <Point id="352">
+                <coordinates>-2.7490946,48.066936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Méthanisation à la ferme Earl Treflamm</name>
+            <Point id="354">
+                <coordinates>-1.3670396,47.9474575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Méthanisation à la ferme Earl de Guernequay</name>
+            <Point id="356">
+                <coordinates>-2.902851,48.001639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Méthanisation à la ferme Earl de Reims</name>
+            <Point id="358">
+                <coordinates>-1.851466,48.240537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Méthanisation à la ferme Earl des Rosiers</name>
+            <Point id="360">
+                <coordinates>-1.3536185,47.9536462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Méthanisation à la ferme Earl la Fontaine Neuve</name>
+            <Point id="362">
+                <coordinates>-2.884151,48.469663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Méthanisation à la ferme Fertiker</name>
+            <Point id="364">
+                <coordinates>-4.2818146,48.480235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Méthanisation à la ferme Gaec Lamoureux Freres</name>
+            <Point id="366">
+                <coordinates>-1.523674,48.0666935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Méthanisation à la ferme Gaec Moulins de Kerollet</name>
+            <Point id="368">
+                <coordinates>-2.3820711,47.5404071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Méthanisation à la ferme Gaec de Kervagen</name>
+            <Point id="370">
+                <coordinates>-4.2136126,48.6164045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Méthanisation à la ferme Gaec du Clos de la Pierre</name>
+            <Point id="372">
+                <coordinates>-2.967049,48.545742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Méthanisation à la ferme Gaec du Gue</name>
+            <Point id="374">
+                <coordinates>-1.72308,48.2986239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>Méthanisation à la ferme Park Energie</name>
+            <Point id="376">
+                <coordinates>-3.829356,48.18676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Méthanisation à la ferme Raoult Methanisation</name>
+            <Point id="378">
+                <coordinates>1.92794,46.668553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Méthanisation à la ferme Sarl Gazea</name>
+            <Point id="380">
+                <coordinates>-2.967049,48.545742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>Méthanisation à la ferme Sarl Lou Elec</name>
+            <Point id="382">
+                <coordinates>-3.4657653,48.3103694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Méthanisation à la ferme Sarl Méthavo Élevages</name>
+            <Point id="384">
+                <coordinates>-1.3918787,48.070137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Méthanisation à la ferme Sas Methanodet</name>
+            <Point id="386">
+                <coordinates>-3.898682,48.0633834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>Méthanisation à la ferme Sas Métha Breizh</name>
+            <Point id="388">
+                <coordinates>-3.4187959,48.3199331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>Méthanisation à la ferme Sas du Menez Avel</name>
+            <Point id="390">
+                <coordinates>-4.7158146,48.4789308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>Méthanisation à la ferme Sas la Touche Energie</name>
+            <Point id="392">
+                <coordinates>-2.3997227,47.9327938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>Unité de Méthanisation Unicopa</name>
+            <Point id="394">
+                <coordinates>-3.6023822,48.2434393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>Méthanisation à la ferme Andelec</name>
+            <Point id="396">
+                <coordinates>-2.568365,48.491468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>Soutien à la méthanisation dans le département de l'Indre</name>
+            <Point id="398">
+                <coordinates>1.6870216,46.8062294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>Méthanisation Papet Seyfert Descartes</name>
+            <Point id="400">
+                <coordinates>-66.2671945,-17.399031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>Méthanisation centralisée Gâtinais Biogaz</name>
+            <Point id="402">
+                <coordinates>22.937506,-30.559482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Méthanisation à la ferme Bio Energie Touraine</name>
+            <Point id="404">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>Méthanisation à la ferme Ferme Auguste</name>
+            <Point id="406">
+                <coordinates>5.739674,47.154674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Méthanisation à la ferme Gaec Gueret</name>
+            <Point id="408">
+                <coordinates>0.958865,48.148355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Méthanisation à la ferme Gaec Guéret</name>
+            <Point id="410">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Méthanisation à la ferme Gaec de Vautournon</name>
+            <Point id="412">
+                <coordinates>1.1107515,47.0079252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>Méthanisation à la ferme Gaec de la Bourgetiere</name>
+            <Point id="414">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Méthanisation à la ferme Gaec du Gros Chêne</name>
+            <Point id="416">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>Méthanisation à la ferme Sarl Energie Plus</name>
+            <Point id="418">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>Méthanisation à la ferme Sas Ter'Biogaz</name>
+            <Point id="420">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Unité de Méthanisation de Pernay</name>
+            <Point id="422">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>Méthanisation à la ferme Gaec Auguste</name>
+            <Point id="424">
+                <coordinates>1.09477,48.2188019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>Méthanisation à la ferme Gaec Beets</name>
+            <Point id="426">
+                <coordinates>2.842035,47.967965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>Méthanisation Papet Seyfert Descartes</name>
+            <Point id="428">
+                <coordinates>0.6994486,46.9728737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>Méthanisation STEP Tours</name>
+            <Point id="430">
+                <coordinates>0.6763991,47.3941339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Méthanisation centralisée Gâtinais Biogaz</name>
+            <Point id="432">
+                <coordinates>4.8522738,43.8876918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Méthanisation à la ferme Bio Energie Touraine</name>
+            <Point id="434">
+                <coordinates>0.4967451,47.6382533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Méthanisation à la ferme Ferme Auguste</name>
+            <Point id="436">
+                <coordinates>1.117438,48.2109389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>Méthanisation à la ferme Gaec Auguste</name>
+            <Point id="438">
+                <coordinates>1.117438,48.2109389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Méthanisation à la ferme Gaec Beets</name>
+            <Point id="440">
+                <coordinates>2.839686,47.954567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>Méthanisation à la ferme Gaec Gueret</name>
+            <Point id="442">
+                <coordinates>0.9808752,48.0979732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>Méthanisation à la ferme Gaec Guéret</name>
+            <Point id="444">
+                <coordinates>0.9808752,48.0979732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>Méthanisation à la ferme Gaec de Vautournon</name>
+            <Point id="446">
+                <coordinates>1.1107793,47.0258983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>Méthanisation à la ferme Gaec de la Bourgetiere</name>
+            <Point id="448">
+                <coordinates>0.412094,48.397733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>Méthanisation à la ferme Gaec du Gros Chêne</name>
+            <Point id="450">
+                <coordinates>1.4743949,47.346252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>Méthanisation à la ferme Sarl Energie Plus</name>
+            <Point id="452">
+                <coordinates>0.993532,47.852164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>Méthanisation à la ferme Sas Ter'Biogaz</name>
+            <Point id="454">
+                <coordinates>1.1499605,47.8555376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>Unité de Méthanisation de Pernay</name>
+            <Point id="456">
+                <coordinates>0.5650938,47.4230125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>Méthanisation IAA Cristanol</name>
+            <Point id="458">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>Méthanisation IAA Union Auboise </name>
+            <Point id="460">
+                <coordinates>7.157659,44.190156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>Méthanisation Papet Papeterie de Rethel</name>
+            <Point id="462">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Méthanisation à la ferme Earl de Presles</name>
+            <Point id="464">
+                <coordinates>-0.3142848,45.4474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>Méthanisation à la ferme Ener'Buiss Sas</name>
+            <Point id="466">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>Méthanisation à la ferme Gaec Duthoitphilippoteaux</name>
+            <Point id="468">
+                <coordinates>-0.3142848,45.4474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>Méthanisation à la ferme Gaec Forget</name>
+            <Point id="470">
+                <coordinates>-3.9300525,48.2520249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>Méthanisation à la ferme Gaec du Château</name>
+            <Point id="472">
+                <coordinates>114.208421,22.34998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>Méthanisation à la ferme Sarl Eurekalias</name>
+            <Point id="474">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>Méthanisation STEP Troyes</name>
+            <Point id="476">
+                <coordinates>4.0450453,48.3332907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>Méthanisation STEP Voujeaucourt</name>
+            <Point id="478">
+                <coordinates>6.764964,47.474641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>Méthanisation à la ferme Gaec Demorgny</name>
+            <Point id="480">
+                <coordinates>4.3526915,49.8028246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>Installation d'une chaufferie bois-paille avec son réseau de chaleur associé (lié au contrat n°10 27 C0011 dossier méthanisation)</name>
+            <Point id="482">
+                <coordinates>4.079675,48.268322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>Méthanisation IAA Cristanol</name>
+            <Point id="484">
+                <coordinates>4.1833241,49.3586113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>Méthanisation IAA Union Auboise </name>
+            <Point id="486">
+                <coordinates>4.3754794,48.1123364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>Méthanisation Papet Papeterie de Rethel</name>
+            <Point id="488">
+                <coordinates>4.368267,49.496948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>Méthanisation STEP Troyes</name>
+            <Point id="490">
+                <coordinates>4.0328908,48.3367393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>Méthanisation à la ferme Earl de Presles</name>
+            <Point id="492">
+                <coordinates>-0.9625745,49.353437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>Méthanisation à la ferme Ener'Buiss Sas</name>
+            <Point id="494">
+                <coordinates>4.4282524,48.5197733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>Méthanisation à la ferme Gaec Demorgny</name>
+            <Point id="496">
+                <coordinates>4.3692015,49.7863978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>Méthanisation à la ferme Gaec Duthoitphilippoteaux</name>
+            <Point id="498">
+                <coordinates>4.8819732,49.2090623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>Méthanisation à la ferme Gaec Forget</name>
+            <Point id="500">
+                <coordinates>4.8306599,49.7331349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>Méthanisation à la ferme Gaec Oudet</name>
+            <Point id="502">
+                <coordinates>4.549375,49.732424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>Méthanisation à la ferme Gaec de Charlemagne</name>
+            <Point id="504">
+                <coordinates>5.188947,49.619516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>Méthanisation à la ferme Gaec du Château</name>
+            <Point id="506">
+                <coordinates>4.753669,49.684893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>Méthanisation à la ferme Sarl Eurekalias</name>
+            <Point id="508">
+                <coordinates>5.6516233,48.0987271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>Méthanisation IAA Eurosérum</name>
+            <Point id="510">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>Méthanisation à la ferme Coopérative Monts de Joux</name>
+            <Point id="512">
+                <coordinates>1.4482662,46.6613966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>Méthanisation à la ferme Essarts Méthanisation</name>
+            <Point id="514">
+                <coordinates>114.208421,22.34998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>Méthanisation à la ferme Gaec Aurore</name>
+            <Point id="516">
+                <coordinates>10.9208893,48.6901541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>Méthanisation à la ferme Gaec Courtoy</name>
+            <Point id="518">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>Méthanisation à la ferme Gaec Ferme Bio de They</name>
+            <Point id="520">
+                <coordinates>5.974406,48.231937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>Méthanisation à la ferme Gaec Vivieroche</name>
+            <Point id="522">
+                <coordinates>-50.6689995,-19.9022523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>Méthanisation à la ferme Gaec de la Suarcine</name>
+            <Point id="524">
+                <coordinates>52.3613378,33.2771073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>Méthanisation IAA Fruitière de Montmahoux</name>
+            <Point id="526">
+                <coordinates>6.032388,46.9822444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>Méthanisation STEP Besançon</name>
+            <Point id="528">
+                <coordinates>5.994713,47.21054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>Méthanisation à la ferme Gaec Chatelet</name>
+            <Point id="530">
+                <coordinates>5.9781494,47.3818126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>Méthanisation IAA Eurosérum</name>
+            <Point id="532">
+                <coordinates>6.0286732,47.6814527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>Méthanisation IAA Fruitière de Montmahoux</name>
+            <Point id="534">
+                <coordinates>6.048121,46.996528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>Méthanisation IAA Laiterie de la Source du Lizon</name>
+            <Point id="536">
+                <coordinates>6.029819,47.006205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>Méthanisation STEP Besançon</name>
+            <Point id="538">
+                <coordinates>6.0459,47.262235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>Méthanisation STEP Voujeaucourt</name>
+            <Point id="540">
+                <coordinates>6.779489,47.499009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>Méthanisation à la ferme Coopérative Monts de Joux</name>
+            <Point id="542">
+                <coordinates>6.2304979,46.8905393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>Méthanisation à la ferme Essarts Méthanisation</name>
+            <Point id="544">
+                <coordinates>5.9113787,47.4263069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>Méthanisation à la ferme Gaec Aurore</name>
+            <Point id="546">
+                <coordinates>6.139858,47.028959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>Méthanisation à la ferme Gaec Courtoy</name>
+            <Point id="548">
+                <coordinates>6.313087,47.77258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>Méthanisation à la ferme Gaec Ferme Bio de They</name>
+            <Point id="550">
+                <coordinates>6.008273,47.3814949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>Méthanisation à la ferme Gaec Vivieroche</name>
+            <Point id="552">
+                <coordinates>-1.1506012,46.1532453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>Méthanisation à la ferme Gaec de la Suarcine</name>
+            <Point id="554">
+                <coordinates>7.036534,47.522767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>Méthanisation IAA SIS Bonne Mère</name>
+            <Point id="556">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>Méthanisation IAA SIS Bonne Mère</name>
+            <Point id="558">
+                <coordinates>-3.707057,48.693122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>Méthanisation Chim. Aqualon France Bv</name>
+            <Point id="560">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>Méthanisation Chim. Oril Industrie</name>
+            <Point id="562">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>Méthanisation Europac</name>
+            <Point id="564">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>Méthanisation STEP Evreux</name>
+            <Point id="566">
+                <coordinates>1.1989814,48.5525242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>Méthanisation Saipol</name>
+            <Point id="568">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>Méthanisation centralisée Agri-Energie</name>
+            <Point id="570">
+                <coordinates>5.274318,48.2666164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>Méthanisation centralisée Capik</name>
+            <Point id="572">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>Méthanisation à la Ferme Scea du Mont aux Roux</name>
+            <Point id="574">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>Méthanisation à la ferme Gaec de la Licorne</name>
+            <Point id="576">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>Méthanisation à la ferme le Bois Guibert</name>
+            <Point id="578">
+                <coordinates>28.530185,-25.7410941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>Méthanisation Biodéchets Cvo Lille</name>
+            <Point id="580">
+                <coordinates>3.057256,50.62925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>Méthanisation Centralisée Biogaz de Gaillon</name>
+            <Point id="582">
+                <coordinates>1.3526349,49.1652575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>Méthanisation Chim. Benp  Lillebonne Sas</name>
+            <Point id="584">
+                <coordinates>0.52538860000004,49.4902192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>Méthanisation IAA Lunor</name>
+            <Point id="586">
+                <coordinates>0.91125829999999,49.8209372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>Méthanisation à la ferme Sca Forzy</name>
+            <Point id="588">
+                <coordinates>1.6184278000001,49.2715948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>Méthanisation Centralisée Biogaz de Gaillon</name>
+            <Point id="590">
+                <coordinates>1.329807,49.1614245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>Méthanisation Chim. Aqualon France Bv</name>
+            <Point id="592">
+                <coordinates>1.1774393,49.3209499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>Méthanisation Chim. Benp  Lillebonne Sas</name>
+            <Point id="594">
+                <coordinates>0.493052,49.530256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>Méthanisation Chim. Oril Industrie</name>
+            <Point id="596">
+                <coordinates>0.4724958,49.5721761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>Méthanisation Europac</name>
+            <Point id="598">
+                <coordinates>1.078202,49.3981981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>Méthanisation IAA Lunor</name>
+            <Point id="600">
+                <coordinates>0.8829096,49.8249261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>Méthanisation STEP Blangy sur Bresle</name>
+            <Point id="602">
+                <coordinates>1.638373,49.930476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>Méthanisation STEP Evreux</name>
+            <Point id="604">
+                <coordinates>1.150703,49.0243734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>Méthanisation Saipol</name>
+            <Point id="606">
+                <coordinates>1.008161,49.3579364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>Méthanisation centralisée Agri-Energie</name>
+            <Point id="608">
+                <coordinates>0.650031,49.371523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>Méthanisation centralisée Capik</name>
+            <Point id="610">
+                <coordinates>1.398831,49.8360898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>Méthanisation à la Ferme Scea du Mont aux Roux</name>
+            <Point id="612">
+                <coordinates>0.627209,49.6072907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>Méthanisation à la ferme Gaec de la Licorne</name>
+            <Point id="614">
+                <coordinates>0.5426137,49.307274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>Méthanisation à la ferme Sca Forzy</name>
+            <Point id="616">
+                <coordinates>1.611001,49.2657132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>Méthanisation à la ferme le Bois Guibert</name>
+            <Point id="618">
+                <coordinates>1.3983159,49.534227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>Méthanisation Pharm Bazainville</name>
+            <Point id="620">
+                <coordinates>6.0947014,48.7997007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>Méthanisation STEP Cergy Pontoise</name>
+            <Point id="622">
+                <coordinates>115.3929,51.0032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>Méthanisation STEP Corbeil-essonnes</name>
+            <Point id="624">
+                <coordinates>4.9729826,49.9886194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>Méthanisation STEP Seine Amont</name>
+            <Point id="626">
+                <coordinates>18.6766737,47.3624339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>Méthanisation STEP Seine Grésillons</name>
+            <Point id="628">
+                <coordinates>2.2982582,48.784871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>Méthanisation STEP Valenton</name>
+            <Point id="630">
+                <coordinates>18.6766737,47.3624339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>Méthanisation avec Tmb Varennes-jarcy</name>
+            <Point id="632">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>Méthanisation centralisée Étampes</name>
+            <Point id="634">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>Méthanisation à la ferme Bioenergie de la Brie</name>
+            <Point id="636">
+                <coordinates>-0.3142848,45.4474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>Méthanisation à la ferme Sci Ferme de la Tremblaye</name>
+            <Point id="638">
+                <coordinates>1.890251,45.558311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>Méthanisation STEP  d'Evry</name>
+            <Point id="640">
+                <coordinates>2.4646021,48.6275564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>Méthanisation STEP Aix en Provence</name>
+            <Point id="642">
+                <coordinates>5.4474270000001,43.529742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>Méthanisation STEP Asnières-sur-oise</name>
+            <Point id="644">
+                <coordinates>2.285369,48.914155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>Méthanisation STEP Bonneuil en France</name>
+            <Point id="646">
+                <coordinates>2.4313110000001,48.974259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>Méthanisation STEP Maison Laffite</name>
+            <Point id="648">
+                <coordinates>2.153955,48.947361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>Méthanisation Pharm Bazainville</name>
+            <Point id="650">
+                <coordinates>1.6465007,48.8140569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>Méthanisation STEP  d'Evry</name>
+            <Point id="652">
+                <coordinates>2.4271452,48.6244644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>Méthanisation STEP Asnières-sur-oise</name>
+            <Point id="654">
+                <coordinates>2.304562,49.15799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>Méthanisation STEP Bonneuil en France</name>
+            <Point id="656">
+                <coordinates>2.4387033,48.9803564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>Méthanisation STEP Bonneuil en France</name>
+            <Point id="658">
+                <coordinates>2.4387033,48.9803564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>Méthanisation STEP Cergy Pontoise</name>
+            <Point id="660">
+                <coordinates>2.0568535,49.0138081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>Méthanisation STEP Corbeil-essonnes</name>
+            <Point id="662">
+                <coordinates>2.473666,48.61429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>Méthanisation STEP Evry</name>
+            <Point id="664">
+                <coordinates>2.4271452,48.6244644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>Méthanisation STEP Maison Laffite</name>
+            <Point id="666">
+                <coordinates>2.144201,48.946006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>Méthanisation STEP Seine Amont</name>
+            <Point id="668">
+                <coordinates>2.4690663,48.7512242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>Méthanisation STEP Seine Grésillons</name>
+            <Point id="670">
+                <coordinates>2.005984,48.981075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>Méthanisation STEP Valenton</name>
+            <Point id="672">
+                <coordinates>2.4690663,48.7512242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>Méthanisation avec Tmb Varennes-jarcy</name>
+            <Point id="674">
+                <coordinates>2.590323,48.690721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>Méthanisation centralisée Étampes</name>
+            <Point id="676">
+                <coordinates>2.158953,48.436839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>Méthanisation à la ferme Sci Ferme de la Tremblaye</name>
+            <Point id="678">
+                <coordinates>0.127771,49.1346485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>Méthanisation IAA Moncigale</name>
+            <Point id="680">
+                <coordinates>34.9356512,32.0672023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>Méthanisation STEP d'Argeles sur Mer</name>
+            <Point id="682">
+                <coordinates>2.4845729,48.9137455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>Méthanisation VIN Cave Coopérative La Clairette</name>
+            <Point id="684">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>Méthanisation VIN les Chais Beaucairois</name>
+            <Point id="686">
+                <coordinates>34.9356512,32.0672023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>Méthanisation avec Tmb de Montpellier</name>
+            <Point id="688">
+                <coordinates>16.2522143,39.5644105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>Méthanisation à la ferme Gaec Rousset</name>
+            <Point id="690">
+                <coordinates>3.30731,44.573141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>Méthanisation STEP Blangy sur Bresle</name>
+            <Point id="692">
+                <coordinates>1.6300539,49.9324129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>Méthanisation STEP Nîmes</name>
+            <Point id="694">
+                <coordinates>4.316403,43.8124197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>Méthanisation STEP Perpignan</name>
+            <Point id="696">
+                <coordinates>2.920289,42.704399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>Méthanisation STEP de Narbonne</name>
+            <Point id="698">
+                <coordinates>3.0166902999999,43.1819685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>Méthanisation IAA Moncigale</name>
+            <Point id="700">
+                <coordinates>4.603966,43.818979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>Méthanisation STEP Nîmes</name>
+            <Point id="702">
+                <coordinates>4.366249,43.830217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>Méthanisation STEP Perpignan</name>
+            <Point id="704">
+                <coordinates>2.8898659,42.6971176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>Méthanisation STEP d'Argeles sur Mer</name>
+            <Point id="706">
+                <coordinates>3.0201963,42.5717783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>Méthanisation STEP de Narbonne</name>
+            <Point id="708">
+                <coordinates>2.999927,43.181419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>Méthanisation VIN Cave Coopérative La Clairette</name>
+            <Point id="710">
+                <coordinates>4.4577274,43.6982436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>Méthanisation VIN les Chais Beaucairois</name>
+            <Point id="712">
+                <coordinates>4.603966,43.818979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>Méthanisation avec Tmb de Montpellier</name>
+            <Point id="714">
+                <coordinates>3.861154,43.631533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>Méthanisation à la ferme Gaec Rousset</name>
+            <Point id="716">
+                <coordinates>3.3292338,44.5518734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>Méthanisation Chim. Silab</name>
+            <Point id="718">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>Méthanisation IAA Corrèze Conserves</name>
+            <Point id="720">
+                <coordinates>2.3813621,43.0724667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>Méthanisation STEP Limoges</name>
+            <Point id="722">
+                <coordinates>6.3355935,48.1446427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>Méthanisation à la ferme Earl de la Salle</name>
+            <Point id="724">
+                <coordinates>2.312207,46.11865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>Méthanisation à la ferme Pole de Lanaud</name>
+            <Point id="726">
+                <coordinates>4.5484364,35.7423978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>Méthanisation Papet Smurfit Limousin</name>
+            <Point id="728">
+                <coordinates>0.81091479999998,45.8706165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>Méthanisation à la ferme Gaec Bataillon</name>
+            <Point id="730">
+                <coordinates>2.309855,46.137003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>Méthanisation Chim. Silab</name>
+            <Point id="732">
+                <coordinates>1.452709,45.217296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>Méthanisation IAA Corrèze Conserves</name>
+            <Point id="734">
+                <coordinates>1.4031062,45.4440434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>Méthanisation Papet Smurfit Limousin</name>
+            <Point id="736">
+                <coordinates>0.849545,45.861419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>Méthanisation STEP Limoges</name>
+            <Point id="738">
+                <coordinates>1.180278,45.860833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>Méthanisation à la ferme Earl de la Salle</name>
+            <Point id="740">
+                <coordinates>4.227543,45.163466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>Méthanisation à la ferme Gaec Bataillon</name>
+            <Point id="742">
+                <coordinates>2.335473,46.178622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>Méthanisation à la ferme Pole de Lanaud</name>
+            <Point id="744">
+                <coordinates>1.3342414,45.770829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>Méthanisation STEP Sarreguemines</name>
+            <Point id="746">
+                <coordinates>4.9729826,49.9886194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>Méthanisation STEP Seicheprey</name>
+            <Point id="748">
+                <coordinates>6.131452,46.133349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>Méthanisation biodéchets Morsbach Forbach</name>
+            <Point id="750">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>Méthanisation à la ferme Coussey - G3 Enviro</name>
+            <Point id="752">
+                <coordinates>2.3244679,50.5732769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>Méthanisation à la ferme Earl Ste Marie Pierre</name>
+            <Point id="754">
+                <coordinates>0.1534761,45.7519958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>Méthanisation à la ferme Earl des Mille Ecus</name>
+            <Point id="756">
+                <coordinates>-0.3142848,45.4474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>Méthanisation à la ferme Gaec Champ Martin</name>
+            <Point id="758">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>Méthanisation à la ferme Noyers - Poirier Vert</name>
+            <Point id="760">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>Méthanisation à la ferme Sarl Witt Nrj</name>
+            <Point id="762">
+                <coordinates>-0.3142848,45.4474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>Méthanisation à la ferme de Migneville</name>
+            <Point id="764">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>Méthanisation IAA Coca Cola Entreprise + Ze Socx</name>
+            <Point id="766">
+                <coordinates>2.433324,50.968519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>Méthanisation Papet Stora Enso Corbehem</name>
+            <Point id="768">
+                <coordinates>3.042145,50.337557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>Méthanisation STEP Maxeville ( Nancy )</name>
+            <Point id="770">
+                <coordinates>6.153544,48.704456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>Méthanisation STEP Sallanches</name>
+            <Point id="772">
+                <coordinates>6.6305569,45.936661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>Méthanisation à la ferme Ensaia</name>
+            <Point id="774">
+                <coordinates>6.3225179999999,48.739425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>Méthanisation STEP Maxeville ( Nancy )</name>
+            <Point id="776">
+                <coordinates>6.1641256,48.7036097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>Méthanisation STEP Sarreguemines</name>
+            <Point id="778">
+                <coordinates>7.067878,49.107257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>Méthanisation STEP Seicheprey</name>
+            <Point id="780">
+                <coordinates>4.0890366,46.6307816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>Méthanisation à la ferme Coussey - G3 Enviro</name>
+            <Point id="782">
+                <coordinates>5.7270462,48.4015389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>Méthanisation à la ferme Earl Ste Marie Pierre</name>
+            <Point id="784">
+                <coordinates>6.533249,49.197005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>Méthanisation à la ferme Earl des Mille Ecus</name>
+            <Point id="786">
+                <coordinates>6.1126124,48.9311344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>Méthanisation à la ferme Ensaia</name>
+            <Point id="788">
+                <coordinates>6.293541,48.728938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>Méthanisation à la ferme Gaec Champ Martin</name>
+            <Point id="790">
+                <coordinates>5.736139,49.381904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>Méthanisation à la ferme Gaec Chatelet</name>
+            <Point id="792">
+                <coordinates>5.376874,49.38088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>Méthanisation à la ferme Noyers - Poirier Vert</name>
+            <Point id="794">
+                <coordinates>5.010651,48.8588302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>Méthanisation à la ferme Sarl Witt Nrj</name>
+            <Point id="796">
+                <coordinates>6.902924,48.487637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>Méthanisation à la ferme de Migneville</name>
+            <Point id="798">
+                <coordinates>6.779166,48.532199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>Méthanisation distillerie Depaz</name>
+            <Point id="800">
+                <coordinates>-80.2331036,26.1275862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>Méthanisation le Robert</name>
+            <Point id="802">
+                <coordinates>-77.4270247,43.1017638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>Méthanisation distillerie Depaz</name>
+            <Point id="804">
+                <coordinates>2.3444644,48.8846886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>Méthanisation le Robert</name>
+            <Point id="806">
+                <coordinates>-0.0448567,44.7924601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>Méthanisation IAA Andros</name>
+            <Point id="808">
+                <coordinates>1.845119,44.927285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>Méthanisation IAA Côtes d'Olt</name>
+            <Point id="810">
+                <coordinates>1.31503,44.490051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>Méthanisation IAA DGC d.G.C</name>
+            <Point id="812">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>Méthanisation IAA Fromagerie Verdier</name>
+            <Point id="814">
+                <coordinates>1.8224426,44.8789214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>Méthanisation IAA Fromagerie de Cazalas</name>
+            <Point id="816">
+                <coordinates>-74.0538797,4.6677583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>Méthanisation IAA Materne Boin Biars</name>
+            <Point id="818">
+                <coordinates>114.208421,22.34998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>Méthanisation IAA les Vignerons de Gerland</name>
+            <Point id="820">
+                <coordinates>-66.2671945,-17.399031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>Méthanisation STEP Auch</name>
+            <Point id="822">
+                <coordinates>1.4774777,42.7623696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>Méthanisation VIN Château du Tariquet</name>
+            <Point id="824">
+                <coordinates>0.10053,43.862587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>Méthanisation VIN les Vignerons de Gerland 2</name>
+            <Point id="826">
+                <coordinates>-66.2671945,-17.399031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>Méthanisation à la ferme Earl Lebbe</name>
+            <Point id="828">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>Méthanisation à la ferme Eplefpa Jean Monnet</name>
+            <Point id="830">
+                <coordinates>2.3813621,43.0724667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>Méthanisation à la ferme Eurl Lgee</name>
+            <Point id="832">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>Méthanisation à la ferme Eurl Ovi-Metha</name>
+            <Point id="834">
+                <coordinates>2.489497,44.129029,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>Méthanisation à la ferme Sarl Biogascogne Energie</name>
+            <Point id="836">
+                <coordinates>1.6051692,42.9655482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="839">
+            <name>Méthanisation Centralisée Sensienergies</name>
+            <Point id="838">
+                <coordinates>2.10969,44.537866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="841">
+            <name>Méthanisation IAA Laiterie de la Source du Lizon</name>
+            <Point id="840">
+                <coordinates>0.67096100000003,43.313489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>Méthanisation STEP Albi</name>
+            <Point id="842">
+                <coordinates>2.1367617,43.9311215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <name>Biométhanisation des écarts de tri de fruit s sur site</name>
+            <Point id="844">
+                <coordinates>1.1106689000001,44.105084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="847">
+            <name>Méthanisation IAA Andros</name>
+            <Point id="846">
+                <coordinates>1.8452896,44.9253804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>Méthanisation IAA Côtes d'Olt</name>
+            <Point id="848">
+                <coordinates>1.4066263,46.4495381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="851">
+            <name>Méthanisation IAA DGC d.G.C</name>
+            <Point id="850">
+                <coordinates>0.3718009,43.9585045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="853">
+            <name>Méthanisation IAA Fromagerie Bergers du Larzac</name>
+            <Point id="852">
+                <coordinates>3.152185,44.008789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>Méthanisation IAA Fromagerie Verdier</name>
+            <Point id="854">
+                <coordinates>2.111483,44.625561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="857">
+            <name>Méthanisation IAA Fromagerie de Cazalas</name>
+            <Point id="856">
+                <coordinates>1.041155,42.9343025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="859">
+            <name>Méthanisation IAA Materne Boin Biars</name>
+            <Point id="858">
+                <coordinates>1.8452896,44.9253804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>Méthanisation IAA les Vignerons de Gerland</name>
+            <Point id="860">
+                <coordinates>-0.088533,43.8209609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>Méthanisation STEP Albi</name>
+            <Point id="862">
+                <coordinates>2.1475494,43.9235744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <name>Méthanisation STEP Auch</name>
+            <Point id="864">
+                <coordinates>0.5858806,43.6462702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>Méthanisation STEP Castres</name>
+            <Point id="866">
+                <coordinates>2.2905397,43.5549604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="869">
+            <name>Méthanisation VIN Château du Tariquet</name>
+            <Point id="868">
+                <coordinates>0.1008961,43.860382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="871">
+            <name>Méthanisation VIN les Vignerons de Gerland 2</name>
+            <Point id="870">
+                <coordinates>-0.088533,43.8209609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>Méthanisation à la ferme Earl Lebbe</name>
+            <Point id="872">
+                <coordinates>2.906272,44.395985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <name>Méthanisation à la ferme Eplefpa Jean Monnet</name>
+            <Point id="874">
+                <coordinates>0.070296,43.387284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <name>Méthanisation à la ferme Eurl Lgee</name>
+            <Point id="876">
+                <coordinates>1.5579554,44.8985391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>Méthanisation à la ferme Eurl Ovi-Metha</name>
+            <Point id="878">
+                <coordinates>2.489993,44.1290577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="881">
+            <name>Méthanisation à la ferme Sarl Biogascogne Energie</name>
+            <Point id="880">
+                <coordinates>0.3023991,43.7582524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="883">
+            <name>Méthanisation Biodéchets Centre Valorisation Orga</name>
+            <Point id="882">
+                <coordinates>1.890251,45.558311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>Méthanisation IAA Cargill Haubourdin</name>
+            <Point id="884">
+                <coordinates>53.045893,29.1043813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="887">
+            <name>Méthanisation IAA Mc Cain Alimentaire</name>
+            <Point id="886">
+                <coordinates>1.9283,43.055771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="889">
+            <name>Méthanisation IAA Mont des Cats</name>
+            <Point id="888">
+                <coordinates>22.7196023,42.8702889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>Méthanisation IAA Noreade Bierne</name>
+            <Point id="890">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="893">
+            <name>Méthanisation IAA Roquette Frères</name>
+            <Point id="892">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="895">
+            <name>Méthanisation Papet Sical</name>
+            <Point id="894">
+                <coordinates>4.6108043,45.7351456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>Méthanisation STEP Lille</name>
+            <Point id="896">
+                <coordinates>-1.8157647,47.2780468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="899">
+            <name>Méthanisation centralisée Artois Methanisation</name>
+            <Point id="898">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="901">
+            <name>Méthanisation distillerie Brasserie Duyck</name>
+            <Point id="900">
+                <coordinates>36.0873143,33.6859397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>Méthanisation distillerie Brasserie Heineken</name>
+            <Point id="902">
+                <coordinates>3.8496815,51.4940309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="905">
+            <name>Méthanisation distillerie Brasserie Saint-omer</name>
+            <Point id="904">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <name>Méthanisation à la ferme Recques sur Course</name>
+            <Point id="906">
+                <coordinates>-0.4502368,44.849665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>Méthanisation à la ferme Sarl C.Bioenergies</name>
+            <Point id="908">
+                <coordinates>114.0486709,22.4497825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="911">
+            <name>Méthanisation à la ferme Sarl les Tourelles</name>
+            <Point id="910">
+                <coordinates>114.0486709,22.4497825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="913">
+            <name>Méthanisation à la ferme Scea du Petit Chemin</name>
+            <Point id="912">
+                <coordinates>3.5812692,44.494203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>Méthanisation Biodéchets Calais</name>
+            <Point id="914">
+                <coordinates>1.91392,50.957728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="917">
+            <name>Méthanisation IAA Beau Marais (mc Cain)</name>
+            <Point id="916">
+                <coordinates>2.6504252,50.5304188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="919">
+            <name>Méthanisation IAA Haagen Dazs</name>
+            <Point id="918">
+                <coordinates>2.8265976,50.2769897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>Méthanisation STEP Herzeele</name>
+            <Point id="920">
+                <coordinates>2.5339275,50.8681977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="923">
+            <name>Méthanisation à la ferme Gaec Oudet</name>
+            <Point id="922">
+                <coordinates>2.5406800000001,50.597111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="925">
+            <name>Méthanisation à la ferme Gaec Panier de Quintine</name>
+            <Point id="924">
+                <coordinates>3.461305,50.39556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>Méthanisation Biodéchets Calais</name>
+            <Point id="926">
+                <coordinates>1.850343,50.967792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="929">
+            <name>Méthanisation IAA Beau Marais (mc Cain)</name>
+            <Point id="928">
+                <coordinates>2.6574779,50.5174048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="931">
+            <name>Méthanisation IAA Cargill Haubourdin</name>
+            <Point id="930">
+                <coordinates>2.9603122,50.623097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>Méthanisation IAA Coca Cola Entreprise + Ze Socx</name>
+            <Point id="932">
+                <coordinates>2.4351123,50.9041836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="935">
+            <name>Méthanisation IAA Haagen Dazs</name>
+            <Point id="934">
+                <coordinates>2.8039489,50.296398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="937">
+            <name>Méthanisation IAA Mc Cain Alimentaire</name>
+            <Point id="936">
+                <coordinates>2.9289366,50.4545928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>Méthanisation IAA Mont des Cats</name>
+            <Point id="938">
+                <coordinates>2.5894699,50.8085143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="941">
+            <name>Méthanisation IAA Noreade Bierne</name>
+            <Point id="940">
+                <coordinates>2.415741,50.9536886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="943">
+            <name>Méthanisation IAA Roquette Frères</name>
+            <Point id="942">
+                <coordinates>2.64946,50.60789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>Méthanisation Papet Sical</name>
+            <Point id="944">
+                <coordinates>2.127539,50.718374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="947">
+            <name>Méthanisation Papet Stora Enso Corbehem</name>
+            <Point id="946">
+                <coordinates>3.057044,50.3186303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="949">
+            <name>Méthanisation STEP Herzeele</name>
+            <Point id="948">
+                <coordinates>2.5348392,50.8513129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>Méthanisation STEP Lille</name>
+            <Point id="950">
+                <coordinates>3.0631411,50.6757904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="953">
+            <name>Méthanisation centralisée Artois Methanisation</name>
+            <Point id="952">
+                <coordinates>3.085524,50.113243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="955">
+            <name>Méthanisation distillerie Brasserie Duyck</name>
+            <Point id="954">
+                <coordinates>3.581057,50.312294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>Méthanisation distillerie Brasserie Heineken</name>
+            <Point id="956">
+                <coordinates>3.1279005,50.6535909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="959">
+            <name>Méthanisation distillerie Brasserie Saint-omer</name>
+            <Point id="958">
+                <coordinates>2.2522114,50.7392549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="961">
+            <name>Méthanisation à la ferme Gaec Panier de Quintine</name>
+            <Point id="960">
+                <coordinates>3.423924,50.367936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>Méthanisation à la ferme Recques sur Course</name>
+            <Point id="962">
+                <coordinates>1.744868,50.4797517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="965">
+            <name>Méthanisation à la ferme Sarl C.Bioenergies</name>
+            <Point id="964">
+                <coordinates>2.2881249,50.2655173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="967">
+            <name>Méthanisation à la ferme Sarl les Tourelles</name>
+            <Point id="966">
+                <coordinates>3.6277254,50.2777334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>Méthanisation à la ferme Scea du Petit Chemin</name>
+            <Point id="968">
+                <coordinates>3.2631103,50.339897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <name>La Verrie : dans la méthanisation tout est bon</name>
+            <Point id="970">
+                <coordinates>-0.99693400000001,46.962496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="973">
+            <name>Méthanisation Papet Allard Emballage</name>
+            <Point id="972">
+                <coordinates>1.4774777,42.7623696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>Méthanisation STEP Angers</name>
+            <Point id="974">
+                <coordinates>-0.5253372,47.4974509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="977">
+            <name>Méthanisation STEP Saumur</name>
+            <Point id="976">
+                <coordinates>-0.0724041,47.2570175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="979">
+            <name>Méthanisation STEP de Château Gontier</name>
+            <Point id="978">
+                <coordinates>1.6051692,42.9655482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>Méthanisation STEP des Ecossièrnes</name>
+            <Point id="980">
+                <coordinates>1.890251,45.558311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="983">
+            <name>Méthanisation centralisée Biogasyl</name>
+            <Point id="982">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="985">
+            <name>Méthanisation centralisée Bionerval</name>
+            <Point id="984">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>Méthanisation centralisée Meta Bio Energies</name>
+            <Point id="986">
+                <coordinates>22.937506,-30.559482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>Méthanisation centralisée Valdis Energie</name>
+            <Point id="988">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>Méthanisation distillerie de Thouarcé</name>
+            <Point id="990">
+                <coordinates>52.3613378,33.2771073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>Méthanisation à la ferme Earl Asnières</name>
+            <Point id="992">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>Méthanisation à la ferme Earl de la Hameliniere</name>
+            <Point id="994">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>Méthanisation à la ferme Earl la Menanterie</name>
+            <Point id="996">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>Méthanisation à la ferme Gaec Vallée de la Vie</name>
+            <Point id="998">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>Méthanisation à la ferme Gaec de l'Épine</name>
+            <Point id="1000">
+                <coordinates>-0.8481272,48.097924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>Méthanisation à la ferme Gaec du Bois Joly</name>
+            <Point id="1002">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>Méthanisation à la ferme Guilbaud</name>
+            <Point id="1004">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1007">
+            <name>Méthanisation à la ferme Methavenir</name>
+            <Point id="1006">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>Méthanisation à la ferme Sas Ouda Energies</name>
+            <Point id="1008">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>Méthanisation à la ferme Scea Bois Brillant</name>
+            <Point id="1010">
+                <coordinates>7.3672331,47.7637592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>Méthanisation à la ferme Scea les Grives aux Loups</name>
+            <Point id="1012">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>Méthanisation à la ferme des Buissons</name>
+            <Point id="1014">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>Méthanisation IAA Castel Frères</name>
+            <Point id="1016">
+                <coordinates>-1.3596202,47.1568592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>Méthanisation IAA Lacheteau</name>
+            <Point id="1018">
+                <coordinates>-0.25688400000001,47.185427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>Méthanisation IAA Ldc Sablé</name>
+            <Point id="1020">
+                <coordinates>-0.30573700000002,47.8256168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>Méthanisation STEP Bonneuil en France</name>
+            <Point id="1022">
+                <coordinates>2.4313110000001,48.974259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>Méthanisation STEP Cholet</name>
+            <Point id="1024">
+                <coordinates>-0.92121700000007,47.056181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>Méthanisation STEP Laval</name>
+            <Point id="1026">
+                <coordinates>-0.76645889999997,48.0490566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>Méthanisation STEP Tours</name>
+            <Point id="1028">
+                <coordinates>0.68484000000001,47.394144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <name>Méthanisation avec Tmb du Biopole d'Angers</name>
+            <Point id="1030">
+                <coordinates>-77.4114418,37.2602611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1033">
+            <name>Méthanisation à la ferme Gaec Froger-Girard</name>
+            <Point id="1032">
+                <coordinates>0.56194800000003,48.009322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>Mise en oeuvre d'une unité de méthanisation à la ferme</name>
+            <Point id="1034">
+                <coordinates>-0.0259387,48.1221704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>Mise en place d'une unité de méthanisation à la ferme</name>
+            <Point id="1036">
+                <coordinates>0.5718684,48.0185168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>Mise en oeuvre d'une chaufferie bois et d'un réseau de chaleur alimenté par du bois énergie et une unité de méthanisation</name>
+            <Point id="1038">
+                <coordinates>-0.79389,46.44083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>Mise en place d'une unité de méthanisation</name>
+            <Point id="1040">
+                <coordinates>-1.32545,46.972588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>AgriBiométhane</name>
+            <Point id="1042">
+                <coordinates>-0.95282,46.992574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>Méthanisation IAA Castel Frères</name>
+            <Point id="1044">
+                <coordinates>-1.3763787,47.1747103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>Méthanisation IAA Lacheteau</name>
+            <Point id="1046">
+                <coordinates>-0.299474,47.1904471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>Méthanisation IAA Ldc Sablé</name>
+            <Point id="1048">
+                <coordinates>-0.3264579,47.8399456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>Méthanisation Papet Allard Emballage</name>
+            <Point id="1050">
+                <coordinates>0.2731332,47.6936545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>Méthanisation STEP Angers</name>
+            <Point id="1052">
+                <coordinates>-0.6025068,47.4806758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>Méthanisation STEP Cholet</name>
+            <Point id="1054">
+                <coordinates>-0.8779454,47.0804988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>Méthanisation STEP Laval</name>
+            <Point id="1056">
+                <coordinates>-0.7999933,48.0732415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>Méthanisation STEP Saumur</name>
+            <Point id="1058">
+                <coordinates>-0.1138015,47.2582105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>Méthanisation STEP de Château Gontier</name>
+            <Point id="1060">
+                <coordinates>-0.7071,47.8239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>Méthanisation STEP des Ecossièrnes</name>
+            <Point id="1062">
+                <coordinates>-2.1975049,47.2839422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>Méthanisation avec Tmb du Biopole d'Angers</name>
+            <Point id="1064">
+                <coordinates>-0.8317642,47.5415686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>Méthanisation centralisée Biogasyl</name>
+            <Point id="1066">
+                <coordinates>-1.0286164,46.8612327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>Méthanisation centralisée Bionerval</name>
+            <Point id="1068">
+                <coordinates>-0.6705827,46.3369066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>Méthanisation centralisée Meta Bio Energies</name>
+            <Point id="1070">
+                <coordinates>-1.025685,47.705533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>Méthanisation centralisée Valdis Energie</name>
+            <Point id="1072">
+                <coordinates>-1.3950552,47.6930741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>Méthanisation distillerie de Thouarcé</name>
+            <Point id="1074">
+                <coordinates>-0.5797773,47.2386365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>Méthanisation à la ferme Earl Asnières</name>
+            <Point id="1076">
+                <coordinates>-0.0259387,48.1221704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>Méthanisation à la ferme Earl de la Hameliniere</name>
+            <Point id="1078">
+                <coordinates>-0.760929,48.07615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>Méthanisation à la ferme Earl la Menanterie</name>
+            <Point id="1080">
+                <coordinates>-0.9865597,46.7070133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>Méthanisation à la ferme Gaec Froger-Girard</name>
+            <Point id="1082">
+                <coordinates>0.5718684,48.0185168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>Méthanisation à la ferme Gaec Vallée de la Vie</name>
+            <Point id="1084">
+                <coordinates>-1.7203982,46.7564529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>Méthanisation à la ferme Gaec de l'Épine</name>
+            <Point id="1086">
+                <coordinates>-0.8138343,48.0623744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>Méthanisation à la ferme Gaec du Bois Joly</name>
+            <Point id="1088">
+                <coordinates>-1.958401,46.8820028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>Méthanisation à la ferme Guilbaud</name>
+            <Point id="1090">
+                <coordinates>-1.8616738,47.1839208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>Méthanisation à la ferme Methavenir</name>
+            <Point id="1092">
+                <coordinates>-1.6883025,46.8997925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>Méthanisation à la ferme Sas Ouda Energies</name>
+            <Point id="1094">
+                <coordinates>-0.2145323,48.0940691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>Méthanisation à la ferme Scea Bois Brillant</name>
+            <Point id="1096">
+                <coordinates>-0.9204817,47.441133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>Méthanisation à la ferme Scea les Grives aux Loups</name>
+            <Point id="1098">
+                <coordinates>-1.32545,46.972588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>Méthanisation à la ferme des Buissons</name>
+            <Point id="1100">
+                <coordinates>-1.156348,47.589945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>Méthanisation Chim. Clariant</name>
+            <Point id="1102">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>Méthanisation IAA Materne Boin Boué</name>
+            <Point id="1104">
+                <coordinates>-1.3313552,43.4610068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>Méthanisation IAA Vico</name>
+            <Point id="1106">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>Méthanisation Papet Otor Picardie</name>
+            <Point id="1108">
+                <coordinates>1.4774777,42.7623696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>Méthanisation Papet Papeteries du Limousin (SGPL)</name>
+            <Point id="1110">
+                <coordinates>-16.6610175,14.1268665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>Méthanisation STEP Creil</name>
+            <Point id="1112">
+                <coordinates>2.468676,49.263783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>Méthanisation STEP de Creil</name>
+            <Point id="1114">
+                <coordinates>2.468676,49.263783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>Méthanisation avec Tmb Amiens</name>
+            <Point id="1116">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>Méthanisation centralisée Ferti Nrj</name>
+            <Point id="1118">
+                <coordinates>114.177987,22.321702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>Méthanisation centralisée Villers Cotterêts</name>
+            <Point id="1120">
+                <coordinates>-0.7733188,45.74949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>Méthanisation à la ferme Gaec de Charlemagne</name>
+            <Point id="1122">
+                <coordinates>4.9025291,45.5252624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1125">
+            <name>Méthanisation Chim. Clariant</name>
+            <Point id="1124">
+                <coordinates>2.9696061,49.4025129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1127">
+            <name>Méthanisation IAA Materne Boin Boué</name>
+            <Point id="1126">
+                <coordinates>3.706327,50.03008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1129">
+            <name>Méthanisation IAA Vico</name>
+            <Point id="1128">
+                <coordinates>3.095216,49.3756485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1131">
+            <name>Méthanisation Papet Otor Picardie</name>
+            <Point id="1130">
+                <coordinates>2.604518,49.750611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1133">
+            <name>Méthanisation Papet Papeteries du Limousin (SGPL)</name>
+            <Point id="1132">
+                <coordinates>3.3788284,49.7703418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1135">
+            <name>Méthanisation STEP Creil</name>
+            <Point id="1134">
+                <coordinates>2.468676,49.263783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1137">
+            <name>Méthanisation STEP de Creil</name>
+            <Point id="1136">
+                <coordinates>2.468676,49.263783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1139">
+            <name>Méthanisation avec Tmb Amiens</name>
+            <Point id="1138">
+                <coordinates>2.2954831,49.8905134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1141">
+            <name>Méthanisation centralisée Ferti Nrj</name>
+            <Point id="1140">
+                <coordinates>7.241191,44.8392763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1143">
+            <name>Méthanisation centralisée Villers Cotterêts</name>
+            <Point id="1142">
+                <coordinates>3.1410562,49.2483541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1145">
+            <name>Méthanisation IAA Revico</name>
+            <Point id="1144">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1147">
+            <name>Méthanisation STEP Rochefort</name>
+            <Point id="1146">
+                <coordinates>-0.4265582,45.0161318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1149">
+            <name>Méthanisation centralisée Tiper Méthanisation</name>
+            <Point id="1148">
+                <coordinates>114.1837842,22.2822544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1151">
+            <name>Méthanisation à la ferme Actibio la Chapelle</name>
+            <Point id="1150">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1153">
+            <name>Méthanisation à la ferme Earl Giraud</name>
+            <Point id="1152">
+                <coordinates>-0.399276,46.834248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1155">
+            <name>Méthanisation à la ferme Métha Bel Air</name>
+            <Point id="1154">
+                <coordinates>9.1107046,46.267913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1157">
+            <name>Méthanisation à la ferme la Lougnolle</name>
+            <Point id="1156">
+                <coordinates>34.9356512,32.0672023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1159">
+            <name>Méthanisation Centralisée Cap'Ter Méthanisation</name>
+            <Point id="1158">
+                <coordinates>-0.20086800000001,46.889026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1161">
+            <name>Méthanisation Centralisée Cap'Ter Méthanisation</name>
+            <Point id="1160">
+                <coordinates>-0.261061,46.886978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <name>Méthanisation IAA Revico</name>
+            <Point id="1162">
+                <coordinates>-0.397706,45.689222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1165">
+            <name>Méthanisation STEP Rochefort</name>
+            <Point id="1164">
+                <coordinates>-0.964281,45.938037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1167">
+            <name>Méthanisation centralisée Tiper Méthanisation</name>
+            <Point id="1166">
+                <coordinates>-0.191061,47.0386324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1169">
+            <name>Méthanisation à la ferme Actibio la Chapelle</name>
+            <Point id="1168">
+                <coordinates>7.1580811,46.7185998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1171">
+            <name>Méthanisation à la ferme Earl Giraud</name>
+            <Point id="1170">
+                <coordinates>-0.386085,46.8650961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1173">
+            <name>Méthanisation à la ferme Métha Bel Air</name>
+            <Point id="1172">
+                <coordinates>0.177034,46.164201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1175">
+            <name>Méthanisation à la ferme la Lougnolle</name>
+            <Point id="1174">
+                <coordinates>-0.313441,46.2794035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1177">
+            <name>Méthanisation IAA Cargill France</name>
+            <Point id="1176">
+                <coordinates>-88.3335006,37.0187819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1179">
+            <name>Méthanisation IAA Robertet</name>
+            <Point id="1178">
+                <coordinates>2.762663,46.122693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1181">
+            <name>Méthanisation IAA Saint Louis Sucre</name>
+            <Point id="1180">
+                <coordinates>121.3770336,24.709089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1183">
+            <name>Méthanisation IAA Valdeze</name>
+            <Point id="1182">
+                <coordinates>-85.4821622,9.8667642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1185">
+            <name>Méthanisation Papet Papeteries Etienne</name>
+            <Point id="1184">
+                <coordinates>-3.9300525,48.2520249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1187">
+            <name>Méthanisation STEP de la Crau</name>
+            <Point id="1186">
+                <coordinates>1.890251,45.558311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1189">
+            <name>Méthanisation VIN Cave Coopérative La Courtoise</name>
+            <Point id="1188">
+                <coordinates>121.422761,23.6350647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1191">
+            <name>Méthanisation avec Tmb Fos-sur-mer Tmb</name>
+            <Point id="1190">
+                <coordinates>2.5975981,50.4724606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1193">
+            <name>Méthanisation STEP Marseille</name>
+            <Point id="1192">
+                <coordinates>5.4012744,43.2210088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1195">
+            <name>Méthanisation STEP de Village-Neuf</name>
+            <Point id="1194">
+                <coordinates>7.5711285,47.6055952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1197">
+            <name>Méthanisation VIN Cave Coopérative Vinicole</name>
+            <Point id="1196">
+                <coordinates>5.5040609,43.685467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1199">
+            <name>Méthanisation à la ferme Gaec du Balcon de Gap</name>
+            <Point id="1198">
+                <coordinates>6.1248048,44.5661951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1201">
+            <name>Méthanisation IAA Cargill France</name>
+            <Point id="1200">
+                <coordinates>6.923339,43.660964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1203">
+            <name>Méthanisation IAA Robertet</name>
+            <Point id="1202">
+                <coordinates>6.923339,43.660964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>Méthanisation IAA Saint Louis Sucre</name>
+            <Point id="1204">
+                <coordinates>4.2453866,40.0897966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>Méthanisation IAA Valdeze</name>
+            <Point id="1206">
+                <coordinates>5.5781078,43.7591379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>Méthanisation Papet Papeteries Etienne</name>
+            <Point id="1208">
+                <coordinates>4.6293246,43.6768892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>Méthanisation STEP Aix en Provence</name>
+            <Point id="1210">
+                <coordinates>5.367778,43.5055539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>Méthanisation STEP Carpentras</name>
+            <Point id="1212">
+                <coordinates>5.084722,44.026112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>Méthanisation STEP Marseille</name>
+            <Point id="1214">
+                <coordinates>4.2453866,40.0897966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>Méthanisation STEP Nice</name>
+            <Point id="1216">
+                <coordinates>7.288077,43.693671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>Méthanisation STEP de la Crau</name>
+            <Point id="1218">
+                <coordinates>6.124223,43.201859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>Méthanisation VIN Cave Coopérative La Courtoise</name>
+            <Point id="1220">
+                <coordinates>5.0734816,44.0342295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>Méthanisation VIN Cave Coopérative Vinicole</name>
+            <Point id="1222">
+                <coordinates>5.417702,43.7175371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>Méthanisation avec Tmb Fos-sur-mer Tmb</name>
+            <Point id="1224">
+                <coordinates>4.9438135,43.455305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>Méthanisation à la ferme Gaec du Balcon de Gap</name>
+            <Point id="1226">
+                <coordinates>5.8363396,44.5381998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>Méthanisation Chim. Toray Films Europe</name>
+            <Point id="1228">
+                <coordinates>-1.3313552,43.4610068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>Méthanisation IAA Clément Faugier</name>
+            <Point id="1230">
+                <coordinates>4.7780371,45.1864011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>Méthanisation IAA Fromagerie de l'Abbaye de Tamié</name>
+            <Point id="1232">
+                <coordinates>-1.352609,47.1716562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>Méthanisation IAA Sabaton</name>
+            <Point id="1234">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>Méthanisation IAA Sté Laitière des Hauts de Savoie</name>
+            <Point id="1236">
+                <coordinates>22.937506,-30.559482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>Méthanisation Papet Papeteries Emin Leydier</name>
+            <Point id="1238">
+                <coordinates>4.81613,45.222119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>Méthanisation STEP Bourg En Bresse</name>
+            <Point id="1240">
+                <coordinates>7.0512984,46.4630218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>Méthanisation STEP de Courchevel</name>
+            <Point id="1242">
+                <coordinates>4.9729826,49.9886194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>Méthanisation STEP de Danone</name>
+            <Point id="1244">
+                <coordinates>1.890251,45.558311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>Méthanisation Step Annemasse Gaillard</name>
+            <Point id="1246">
+                <coordinates>115.3929,51.0032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>Méthanisation VIN Cave Coopérative de Bel Air</name>
+            <Point id="1248">
+                <coordinates>73.6303446,10.0760115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>Méthanisation à la ferme Gaec P2mn</name>
+            <Point id="1250">
+                <coordinates>-118.2436849,34.0522342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1253">
+            <name>Méthanisation à la ferme Gaec les Chatelets</name>
+            <Point id="1252">
+                <coordinates>0.106973,47.880699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1255">
+            <name>Méthanisation à la ferme Lycée Agricole de Savoie</name>
+            <Point id="1254">
+                <coordinates>-1.4827274,43.481008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1257">
+            <name>Méthanisation à la ferme Sarl Methanea</name>
+            <Point id="1256">
+                <coordinates>5.148513,46.3944676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1259">
+            <name>Méthanisation à la ferme Scea Robin</name>
+            <Point id="1258">
+                <coordinates>-91.9623327,30.9842977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1261">
+            <name>Méthanisation STEP Arenthon</name>
+            <Point id="1260">
+                <coordinates>6.3492547,46.0991864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1263">
+            <name>Méthanisation STEP Carroz d'Arâches</name>
+            <Point id="1262">
+                <coordinates>6.421744,46.358645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1265">
+            <name>Méthanisation STEP Castres</name>
+            <Point id="1264">
+                <coordinates>2.241295,43.606214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1267">
+            <name>Méthanisation STEP Chambéry</name>
+            <Point id="1266">
+                <coordinates>5.8968714,45.5987376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1269">
+            <name>Méthanisation STEP Dijon</name>
+            <Point id="1268">
+                <coordinates>5.0728146,47.3265891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1271">
+            <name>Méthanisation STEP Nice</name>
+            <Point id="1270">
+                <coordinates>7.2619532,43.7101728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1273">
+            <name>Méthanisation STEP du Pertuiset</name>
+            <Point id="1272">
+                <coordinates>4.247013,45.412569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1275">
+            <name>Méthanisation à la ferme Gaec des Manets</name>
+            <Point id="1274">
+                <coordinates>5.049231,46.2279229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1277">
+            <name>Méthanisation Chim. Toray Films Europe</name>
+            <Point id="1276">
+                <coordinates>4.9907359,45.8212893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1279">
+            <name>Méthanisation IAA Clément Faugier</name>
+            <Point id="1278">
+                <coordinates>4.598496,44.734582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1281">
+            <name>Méthanisation IAA Fromagerie de l'Abbaye de Tamié</name>
+            <Point id="1280">
+                <coordinates>6.317473,45.665948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1283">
+            <name>Méthanisation IAA Sabaton</name>
+            <Point id="1282">
+                <coordinates>4.390826,44.6207919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1285">
+            <name>Méthanisation IAA Sté Laitière des Hauts de Savoie</name>
+            <Point id="1284">
+                <coordinates>6.6665087,45.9179228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1287">
+            <name>Méthanisation Papet Papeteries Emin Leydier</name>
+            <Point id="1286">
+                <coordinates>2.316054,44.3780126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1289">
+            <name>Méthanisation STEP Arenthon</name>
+            <Point id="1288">
+                <coordinates>6.333882,46.108236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1291">
+            <name>Méthanisation STEP Bourg En Bresse</name>
+            <Point id="1290">
+                <coordinates>5.1822909,46.2897078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1293">
+            <name>Méthanisation STEP Carroz d'Arâches</name>
+            <Point id="1292">
+                <coordinates>6.6215058,46.0484395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1295">
+            <name>Méthanisation STEP Chambéry</name>
+            <Point id="1294">
+                <coordinates>5.9196297,45.5712464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1297">
+            <name>Méthanisation STEP Sallanches</name>
+            <Point id="1296">
+                <coordinates>6.6293081,45.9525454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1299">
+            <name>Méthanisation STEP de Courchevel</name>
+            <Point id="1298">
+                <coordinates>6.637265,45.433942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1301">
+            <name>Méthanisation STEP de Danone</name>
+            <Point id="1300">
+                <coordinates>4.998507,45.5856077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1303">
+            <name>Méthanisation STEP du Pertuiset</name>
+            <Point id="1302">
+                <coordinates>4.2615212,45.3996922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1305">
+            <name>Méthanisation Step Annemasse Gaillard</name>
+            <Point id="1304">
+                <coordinates>6.2149166,46.1777244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1307">
+            <name>Méthanisation VIN Cave Coopérative de Bel Air</name>
+            <Point id="1306">
+                <coordinates>4.7332712,46.1146082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1309">
+            <name>Méthanisation à la ferme Earl Mercier</name>
+            <Point id="1308">
+                <coordinates>6.442458,45.628615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1311">
+            <name>Méthanisation à la ferme Gaec P2mn</name>
+            <Point id="1310">
+                <coordinates>1.9271108,43.7554271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1313">
+            <name>Méthanisation à la ferme Gaec les Chatelets</name>
+            <Point id="1312">
+                <coordinates>6.056122,45.7925479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1315">
+            <name>Méthanisation à la ferme Lycée Agricole de Savoie</name>
+            <Point id="1314">
+                <coordinates>5.870789,45.5898609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1317">
+            <name>Méthanisation à la ferme Sarl Methanea</name>
+            <Point id="1316">
+                <coordinates>5.144424,46.4073049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1319">
+            <name>Méthanisation à la ferme Scea Robin</name>
+            <Point id="1318">
+                <coordinates>5.2942669,46.418959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1321">
+            <name>Horizon : projet d'unité de méthanisation locale</name>
+            <Point id="1320">
+                <coordinates>6.3587171,45.6474913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1323">
+            <name>Projet de méthanisation territorial</name>
+            <Point id="1322">
+                <coordinates>5.0314168,45.0138633,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
